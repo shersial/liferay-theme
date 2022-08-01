@@ -1,0 +1,32 @@
+!SESSION 2022-07-20 09:44:20.694 -----------------------------------------------
+eclipse.buildId=3.9.7.202207131011-ga8
+java.version=1.8.0_333
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_US
+Framework arguments:  -product com.liferay.ide.studio.ui.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product com.liferay.ide.studio.ui.product
+
+!ENTRY org.eclipse.core.net 1 0 2022-07-20 09:44:39.566
+!MESSAGE System property http.proxyHost is not set but should be http://websenseproxy.sedd.gov.ae.
+
+!ENTRY org.eclipse.core.net 1 0 2022-07-20 09:44:39.568
+!MESSAGE System property http.proxyPort is not set but should be 8080.
+
+!ENTRY org.eclipse.egit.core 1 0 2022-07-20 09:44:39.596
+!MESSAGE Using Apache MINA sshd as ssh client.
+
+!ENTRY org.eclipse.ui.editors 4 10001 2022-07-20 09:44:41.989
+!MESSAGE Ignoring template 'log' since it has no id.
+
+!ENTRY org.eclipse.ui 4 4 2022-07-20 09:44:42.062
+!MESSAGE Referenced part does not exist yet: fast.
+
+!ENTRY org.eclipse.egit.ui 2 0 2022-07-20 09:44:45.714
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\10016'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+
+!ENTRY org.eclipse.rse.core 1 0 2022-07-20 09:45:52.817
+!MESSAGE Disconnect operation timed out after 120000 milliseconds.
